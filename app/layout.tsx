@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "AgentyPro - AI-Powered Business Communication Platform",
-  description: "Automate your business communication, sales, and customer management with AgentyPro's AI-powered platform.",
+  description: "Automate your business communication, sales, and customer management with AgentyPros AI-powered platform.",
 };
 
 export default function RootLayout({

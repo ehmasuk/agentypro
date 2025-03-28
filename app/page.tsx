@@ -823,7 +823,7 @@ function Homepage() {
             <h2 className="text-3xl md:text-4xl font-bold mb-4">How AgentyPro Works</h2>
             <p className="text-xl text-gray-600 dark:text-gray-400">Get up and running in minutes with our simple setup process</p>
           </div>
-          <div className="relative">
+          <div className="relative px-4">
             <div className="absolute top-24 left-1/2 -translate-x-1/2 w-0.5 h-[calc(100%-120px)] bg-gradient-to-b from-blue-600 to-blue-400 hidden md:block" />
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12 relative">
               <div className="bg-white dark:bg-gray-700 p-8 rounded-xl shadow-md relative">
@@ -883,7 +883,7 @@ function Homepage() {
                   decoding="async"
                   data-nimg="fill"
                   className="object-cover"
-                  src="https://picsum.photos/500/300?random=Case Study 1"
+                  src="https://plus.unsplash.com/premium_photo-1682024745224-2edf92747598?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHJvYm90JTIwd3JpdGluZyUyMGJvb2t8ZW58MHx8MHx8fDA%3D"
                   style={{ position: "absolute", height: "100%", width: "100%", inset: 0, color: "transparent" }}
                 />
               </div>
@@ -923,7 +923,7 @@ function Homepage() {
                   decoding="async"
                   data-nimg="fill"
                   className="object-cover"
-                  src="https://picsum.photos/500/300?random=Case Study 2"
+                  src="https://images.unsplash.com/photo-1664575599618-8f6bd76fc670?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YnVzaW5lc3N8ZW58MHx8MHx8fDA%3D"
                   style={{ position: "absolute", height: "100%", width: "100%", inset: 0, color: "transparent" }}
                 />
               </div>
@@ -963,7 +963,7 @@ function Homepage() {
                   decoding="async"
                   data-nimg="fill"
                   className="object-cover"
-                  src="https://picsum.photos/500/300?random=Case Study 3"
+                  src="https://images.unsplash.com/photo-1664575601786-b00156752b61?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGJ1c2luZXNzfGVufDB8fDB8fHww"
                   style={{ position: "absolute", height: "100%", width: "100%", inset: 0, color: "transparent" }}
                 />
               </div>
@@ -972,9 +972,9 @@ function Homepage() {
                   className="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent mb-3 bg-blue-100 text-blue-800 hover:bg-blue-200 dark:bg-blue-900 dark:text-blue-300"
                   data-v0-t="badge"
                 >
-                  Healthcare
+                  Finance
                 </div>
-                <h3 className="text-xl font-semibold mb-2">Healthcare Provider Improves Patient Engagement</h3>
+                <h3 className="text-xl font-semibold mb-2">Finance Provider Improves more Engagement</h3>
                 <p className="text-gray-600 dark:text-gray-400 mb-4">How a healthcare network automated appointment scheduling and follow-ups.</p>
                 <a href="/case-studies/3" className="text-blue-600 dark:text-blue-400 font-medium flex items-center">
                   Read Case Study{" "}
@@ -1216,7 +1216,7 @@ function Homepage() {
                   />
                 </svg>
               </div>
-              <p className="text-gray-700 dark:text-gray-300 mb-6 relative z-10">We've seen a 40% increase in lead conversion since implementing AgentyPro's sales funnel automation.</p>
+              <p className="text-gray-700 dark:text-gray-300 mb-6 relative z-10">Weve seen a 40% increase in lead conversion since implementing AgentyPros sales funnel automation.</p>
               <div className="flex items-center">
                 <div className="mr-4">
                   <img
@@ -1759,7 +1759,7 @@ function Homepage() {
             </button>
           </div>
           <div className="mt-12 pt-12 border-t border-blue-500/30 text-blue-100 max-w-4xl mx-auto">
-            <p className="text-lg mb-6">Still have questions? We're here to help!</p>
+            <p className="text-lg mb-6">Still have questions? Were here to help!</p>
             <div className="flex flex-col sm:flex-row gap-8 justify-center">
               <div className="flex items-center justify-center gap-3">
                 <div className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center">
